@@ -1,0 +1,21 @@
+{
+  "name": "mongo-db-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/index.js",
+  "type": "module",
+  "scripts": {
+    "server": "node ./server/index.js"
+  },
+  "keywords": [
+    "server",
+    "tcp",
+    "client",
+    "database"
+  ],
+  "author": "Sebastian Galeano",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
